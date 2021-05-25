@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilomilopedrin
-- 👀 I’m interested in Automation with requests
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in requests.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on (nothing because i'm a novice)
 - 📫 How to reach me @ilomilopedrin in twt
