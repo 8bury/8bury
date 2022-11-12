@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @8bury
 - 👀 I’m interested in requests.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on (nothing because i'm a novice)
-- 📫 How to reach me: @8buryafriend in twt
+- 💞️ I’m looking to collaborate on (nothing because i'm a beginner)
+- 📫 How to reach me: @deitybury
