@@ -1,3 +1,7 @@
+# Hi there, I'm Pedro
+
+I like to code, experiment with new things and create useful (and sometimes not that useful) projects.
+
 <a href="https://pedrosales.dev" target="_blank">
 <p align="center">
   <img src="./assets/gopher_pc.png" alt="lofi-gopher" width="310" />
