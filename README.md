@@ -1,6 +1,6 @@
-# Hi there, I'm Pedro
+Hi, I'm Pedro! I'm a software engineer from Brazil.
 
-I like to code, experiment with new things and create projects.
+I enjoy coding, solving problems, trying new tech and creating projects.
 
 <a href="https://pedrosales.dev" target="_blank">
 <p align="center">
