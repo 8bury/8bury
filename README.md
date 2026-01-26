@@ -1,6 +1,6 @@
 # Hi there, I'm Pedro
 
-I like to code, experiment with new things and create useful (and sometimes not that useful) projects.
+I like to code, experiment with new things and create projects.
 
 <a href="https://pedrosales.dev" target="_blank">
 <p align="center">
